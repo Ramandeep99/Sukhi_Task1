@@ -1,0 +1,39 @@
+.navEl
+{
+	height :30px;
+	width : 33%;
+	float : left;
+	display: inline;
+	font-size : 20px;
+	list-style-type: None;
+	text-align:center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+.navEl2
+{
+	height :800px;
+	width : 50%;
+	float : left;
+	display: inline;
+	list-style-type: None;
+
+
+}
+.round
+{
+	border-radius: 2rem;
+	background-color: beige;
+	padding: 3px;
+	width: 25%;
+	margin-left: 0.5rem;
+	}
+input
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.5rem;
+	font-size:1.8rem;
+}
